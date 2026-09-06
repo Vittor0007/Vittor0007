@@ -5,15 +5,10 @@ Desenvolvedor Full-Stack Júnior, com foco em PHP, JavaScript e React.
 - 🔭 Atualmente trabalho na **Ipê Web**
 - 🌱 Tenho 2 anos de experiência como programador, sempre estudando e evoluindo
 - 💻 Stack: PHP · JavaScript · React · PostgreSQL · Git · Docker · Linux
-- 🎓 *(coloque aqui sua formação: faculdade, curso técnico, bootcamp ou autodidata)*
-- 🎯 *(coloque aqui seu objetivo atual: ex. buscando oportunidade como dev pleno)*
+- 🎓 8º período de Sistemas de Informação, UEG
 - 📫 Contato: vittorweb@gmail.com
 
 ---
-
-### 🚀 Projeto em destaque
-
-**[SistemaMercado](https://github.com/Vittor0007/SistemaMercado)** — Sistema de gestão para mercado, desenvolvido em C#, com controle de produtos e vendas.
 
 ### 🧪 Projetos de estudo
 
@@ -24,6 +19,7 @@ Projetos feitos para praticar lógica de programação e fundamentos de front-en
 - **[tela-netflix](https://github.com/Vittor0007/tela-netflix)** — Réplica da tela do Netflix (HTML/CSS)
 - **[tela-spotify](https://github.com/Vittor0007/tela-spotify)** — Réplica da interface do Spotify (HTML/CSS)
 - **[telaIpe](https://github.com/Vittor0007/telaIpe)** — Prática de HTML/CSS durante período na Ipê Web
+- **[SistemaMercado](https://github.com/Vittor0007/SistemaMercado)** — Sistema de gestão para mercado, desenvolvido em C#, com controle de produtos e vendas.
 
 ---
 
@@ -38,5 +34,3 @@ Projetos feitos para praticar lógica de programação e fundamentos de front-en
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittor0007&show_icons=true&theme=default)
